@@ -8,21 +8,21 @@
 ### Language & Package
   ![image](https://user-images.githubusercontent.com/73687292/204484182-9e6004bb-6a45-4a57-8ee8-ade49d47343e.png)
   * **Server :**
-    ```java=
+    ```java
     import java.net.*
     import java.io.*
     import java.util.HashMap
     import java.util.Map
     ```
   * **Client :**
-    ```java=
+    ```java
     import java.net.*
     import java.io.*
     import java.awt.*
     import java.awt.event.*
     ```
   * **Rules :**
-    ```java=
+    ```java
     import java.awt.*
     import java.awt.event.*
     import java.io.IOException
