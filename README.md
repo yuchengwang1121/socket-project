@@ -49,6 +49,9 @@
   * When one is finished while others is not, the server will tell the client who finished first to wait
   * After both finished, server will judge who's score is higher. If tie, than compare who use less times.
   * After all, it will send $You Win~！！$ back to the winner's screen, while the other with $You Lose QQ$ .
+  ![image](https://user-images.githubusercontent.com/73687292/204490327-36dbf2d6-fe1c-4bf9-9859-28a1de1abc14.png)
+  ![image](https://user-images.githubusercontent.com/73687292/204490409-dbedeb85-71dc-4fff-a196-5e501f30524e.png)
   
 finished when 2020/12/15
+
 Modified when 2022/11/29
